@@ -3,7 +3,7 @@
 Are you using pre-trained word embeddings like word2vec, GloVe or fastText? `Debiaswe` allows you to easily remove gender bias.
 No longer can nurses only be female or are males the only cowards.
 
-This repository was made during the FACT-AI course at the University of Amsterdam, during which papers from the FACT field are reproduced and possibly extended.
+This repository was made during the FACT-AI course at OurUniversity, during which papers from the FACT field are reproduced and possibly extended.
 
 ## Getting Started
 
@@ -76,10 +76,6 @@ NOTE: Creating analogies is a very costly procedure which requires comparisons b
 ```
 python experiments.py --no_show
 ```
-
-## Authors
-
-Kylian van Geijtenbeek, Thom Visser, Martine Toering, Iulia Ionescu
 
 ## Acknowledgements
 
