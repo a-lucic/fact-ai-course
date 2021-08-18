@@ -52,4 +52,3 @@ Outputs
 --------
 
 Both BC and QA tasks will generate the graphs used in paper in the folder `Transparency/graph_outputs` .
-You can also browse our graphs here -- https://successar.github.io/AttentionExplanation/docs/ .
