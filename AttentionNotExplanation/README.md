@@ -1,12 +1,5 @@
 # FACT: Unfairness optimiser
 
-TA: Marco Heuvelman
-
-Students: 
-* Thomas van Zwol
-* Sietze Kuilman
-* Emil Dudev, emil.dudev@student.uva.nl
-* Nils Lehmann, nils.lehmann@student.uva.nl 
 
 ## Installation
 
