@@ -158,10 +158,6 @@ optional arguments:
 
 To extend this implementation to a new dataset, inherit the 'Dataset' class specified in 'datasets.dataset.py' and overwrite the initialisation by specifying a train_data and test_data attribute containing a Pytorch Dataset, train_loader and test_loader attributes containing Pytorch Dataloaders and train_list and test_list attributes containing a list of samples.
 
-## Authors
-
-David Knigge, Marcel Velez, David Vos & Hannah Min
-
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
