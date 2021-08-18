@@ -90,17 +90,6 @@ The [Report Notebook](report.ipynb) reproduces all the results of our experiment
 3. SENN Explanations: ![](images/senn_concept_activations.png)
 4. SENN Prototypes: ![](images/senn_concept_prototypes.png)
 
-## Documentation
-The documentation of our SENN package is available on https://senn.readthedocs.io/en/latest/
-
-## Authors
-* Aman Hussain (aman.hussain@student.uva.nl)   
-* Omar Elbaghdadi   
-* Christoph Hoenes     
-* Ivan Bardarov (ivan.bardarov@student.uva.nl)    
-
-**Supervisor:**  
-Simon Passenheim
 
 ## References
 [1] David Alvarez Melis, Tommi S. Jaakkola  
