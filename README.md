@@ -1,4 +1,4 @@
-# uva-fact-ai-course
+# fact-ai-course
 This repository contains implementations of algorithms proposed in recent papers from top machine learning conferences. These were implemented as part of the course on Fairness, Accountability, Confidentiality and Transparency in AI at OurUniversity in January 2020.
 
 The following papers are implemented in this repository:
