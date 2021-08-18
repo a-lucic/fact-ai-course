@@ -1,11 +1,6 @@
 # FACT-AI: Deep Learning for Case-Based Reasoning through Prototypes: A Neural Network that Explains Its Predictions 
-Private Github repository for the course Fairness, Accountability, Confidentiality and Transparency in AI at the University of Amsterdam. This repository contains the reproduction source code, results and extended methods on the ["Deep Learning for Case-Based Reasoning through Prototypes: A Neural Network that Explains Its Predictions"](https://arxiv.org/abs/1710.04806) paper. 
+Private Github repository for the course Fairness, Accountability, Confidentiality and Transparency in AI at OurUniversity. This repository contains the reproduction source code, results and extended methods on the ["Deep Learning for Case-Based Reasoning through Prototypes: A Neural Network that Explains Its Predictions"](https://arxiv.org/abs/1710.04806) paper. 
 
-## Authors
-* Albert Harkema (albert.harkema@student.uva.nl)
-* Anna Langedijk (annalangedijk@gmail.com)
-* Christiaan van der Vlist (christiaan.vandervlist@student.uva.nl)
-* Hinrik Snær (hinriksnaer@gmail.com)
 
 ## Based on
 Our implementation is based on the tensorflow code in https://github.com/OscarcarLi/PrototypeDL.
