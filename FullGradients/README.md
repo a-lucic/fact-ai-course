@@ -1,9 +1,5 @@
 # Fairness, Accountability, Confidentiality and Transparency in AI
-## People who worked on this project:
-Daan Le - 
-Mathieu Bartels -
-David Wessels -
-Laurence Bont 
+
 ## Dependencies?
 To get all dependencies for this paper use pipenv or conda
 
