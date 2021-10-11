@@ -21,7 +21,7 @@ unpack the datasets in the 'dataset' folder\
 unpack the models in the saved-models folder
 [models](https://we.tl/t-1n8BFJlouY)
 
-Please note that once these links have expired the data cannot be fetched anymore! Please reach out to laurencebont@gmail.com if you want to gain acces to the data.
+Please note that once these links have expired the data cannot be fetched anymore!
 
 ### How to run?
 
